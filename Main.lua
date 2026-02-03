@@ -1,7 +1,7 @@
 -- [[ CHEOZ MENU - AUTOMÁTICO 24H ]]
 
 local LinkDaKey = "https://work.ink/2h4Z/cheoz-menu-key-system" 
-local ScriptOriginal = "https://raw.githubusercontent.com/Cheozz/CheozMenu/refs/heads/main/Loader"
+local ScriptOriginal = "https://raw.githubusercontent.com/Cheozz/CheozMenu/main/Loader"
 
 -- Função de validação automática via API
 local function Validar(v_key)
@@ -23,7 +23,7 @@ Frame.BorderSizePixel = 2
 Frame.BorderColor3 = Color3.fromRGB(50, 50, 50)
 
 local Title = Instance.new("TextLabel", Frame)
-Title.Text = "CHEOZ MENU" -- Título alterado conforme solicitado
+Title.Text = "CHEOZ MENU"
 Title.Size = UDim2.new(1, 0, 0, 40)
 Title.TextColor3 = Color3.new(1, 1, 1)
 Title.BackgroundTransparency = 1
@@ -44,7 +44,6 @@ BtnEntrar.Position = UDim2.new(0.2, 0, 0.75, 0)
 BtnEntrar.Text = "Entrar"
 BtnEntrar.BackgroundColor3 = Color3.fromRGB(0, 150, 0)
 BtnEntrar.TextColor3 = Color3.new(1, 1, 1)
-BtnEntrar.Font = Enum.Font.Gotham
 
 local BtnKey = Instance.new("TextButton", Frame)
 BtnKey.Size = UDim2.new(0, 110, 0, 35)
@@ -52,7 +51,6 @@ BtnKey.Position = UDim2.new(0.55, 0, 0.75, 0)
 BtnKey.Text = "Pegar Key"
 BtnKey.BackgroundColor3 = Color3.fromRGB(100, 0, 200)
 BtnKey.TextColor3 = Color3.new(1, 1, 1)
-BtnKey.Font = Enum.Font.Gotham
 
 -- Ação dos Botões
 BtnKey.MouseButton1Click:Connect(function()
@@ -67,7 +65,7 @@ BtnEntrar.MouseButton1Click:Connect(function()
         BtnEntrar.Text = "Sucesso!"
         wait(1)
         ScreenGui:Destroy()
-        -- Executa o seu script original
+        -- ESSA LINHA É A QUE ABRE O SEU MENU
         loadstring(game:HttpGet(ScriptOriginal))()
     else
         BtnEntrar.Text = "Key Inválida!"
