@@ -1,4 +1,3 @@
--- [[ CHEOZ MENU - SISTEMA DE SEGURANÇA ATIVADO ]]
 local LinkDaKey = "https://work.ink/2h4Z/cheoz-menu-key-system" 
 local ScriptOriginal = "https://raw.githubusercontent.com/Cheozz/CheozMenu/main/Loader"
 
@@ -59,19 +58,15 @@ BtnEntrar.MouseButton1Click:Connect(function()
         local s, content = pcall(function() return game:HttpGet(ScriptOriginal) end)
         if s then
             ScreenGui:Destroy()
-            -- ATIVA A PERMISSÃO INTERNA
             _G.CheozPermitido = "CHEOZ_AUTH_9921" 
-            
             task.defer(function()
                 local func = loadstring(content)
                 if func then
                     func()
-                else
-                    warn("Erro ao carregar Loader.")
                 end
             end)
         else
-            BtnEntrar.Text = "Erro de Link!"
+            BtnEntrar.Text = "Erro!"
         end
     else
         BtnEntrar.Text = "Key Inválida!"
