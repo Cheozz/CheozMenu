@@ -1,25 +1,20 @@
--- [[ CHEOZ MENU - VERSÃO DEFINITIVA ]]
-
+-- [[ CHEOZ MENU - SISTEMA DE SEGURANÇA ATIVADO ]]
 local LinkDaKey = "https://work.ink/2h4Z/cheoz-menu-key-system" 
 local ScriptOriginal = "https://raw.githubusercontent.com/Cheozz/CheozMenu/main/Loader"
 
 local function Validar(v_key)
     local url = "https://work.ink/_api/v2/token/isValid/" .. v_key
     local success, response = pcall(function() return game:HttpGet(url) end)
-    if success and response:find('"valid":true') then
-        return true
-    end
-    return false
+    return success and response:find('"valid":true')
 end
 
--- Interface de Login
 local ScreenGui = Instance.new("ScreenGui", game.CoreGui)
 local Frame = Instance.new("Frame", ScreenGui)
 Frame.Size = UDim2.new(0, 300, 0, 180)
 Frame.Position = UDim2.new(0.5, -150, 0.5, -90)
 Frame.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
-Frame.BorderSizePixel = 2
-Frame.BorderColor3 = Color3.fromRGB(50, 50, 50)
+Frame.BorderSizePixel = 0
+Instance.new("UICorner", Frame).CornerRadius = UDim.new(0, 10)
 
 local Title = Instance.new("TextLabel", Frame)
 Title.Text = "CHEOZ MENU"
@@ -27,7 +22,6 @@ Title.Size = UDim2.new(1, 0, 0, 40)
 Title.TextColor3 = Color3.new(1, 1, 1)
 Title.BackgroundTransparency = 1
 Title.Font = Enum.Font.GothamBold
-Title.TextSize = 18
 
 local TextBox = Instance.new("TextBox", Frame)
 TextBox.Size = UDim2.new(0, 240, 0, 35)
@@ -42,6 +36,7 @@ BtnEntrar.Position = UDim2.new(0.2, 0, 0.75, 0)
 BtnEntrar.Text = "Entrar"
 BtnEntrar.BackgroundColor3 = Color3.fromRGB(0, 150, 0)
 BtnEntrar.TextColor3 = Color3.new(1, 1, 1)
+Instance.new("UICorner", BtnEntrar)
 
 local BtnKey = Instance.new("TextButton", Frame)
 BtnKey.Size = UDim2.new(0, 110, 0, 35)
@@ -49,36 +44,38 @@ BtnKey.Position = UDim2.new(0.55, 0, 0.75, 0)
 BtnKey.Text = "Pegar Key"
 BtnKey.BackgroundColor3 = Color3.fromRGB(100, 0, 200)
 BtnKey.TextColor3 = Color3.new(1, 1, 1)
+Instance.new("UICorner", BtnKey)
 
 BtnKey.MouseButton1Click:Connect(function()
     setclipboard(LinkDaKey)
     BtnKey.Text = "Copiado!"
-    wait(1)
+    task.wait(1)
     BtnKey.Text = "Pegar Key"
 end)
 
 BtnEntrar.MouseButton1Click:Connect(function()
     if Validar(TextBox.Text) then
-        BtnEntrar.Text = "Carregando..."
-        
-        -- Pega o conteúdo do Loader
-        local success, content = pcall(function() return game:HttpGet(ScriptOriginal) end)
-        
-        if success then
+        BtnEntrar.Text = "Validando..."
+        local s, content = pcall(function() return game:HttpGet(ScriptOriginal) end)
+        if s then
             ScreenGui:Destroy()
-            -- Força a execução em uma nova thread para não travar
-            task.spawn(function()
+            -- ATIVA A PERMISSÃO INTERNA
+            _G.CheozPermitido = "CHEOZ_AUTH_9921" 
+            
+            task.defer(function()
                 local func = loadstring(content)
                 if func then
                     func()
+                else
+                    warn("Erro ao carregar Loader.")
                 end
             end)
         else
-            BtnEntrar.Text = "Erro ao baixar!"
+            BtnEntrar.Text = "Erro de Link!"
         end
     else
         BtnEntrar.Text = "Key Inválida!"
-        wait(1.5)
+        task.wait(1.5)
         BtnEntrar.Text = "Entrar"
     end
 end)
