@@ -1,1 +1,312 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local r={"\078\082\048\067\076\070\061\061","\076\114\119\115\110\122\113\061","\110\090\113\061","\088\075\070\078\119\103\048\113\051\049\066\116\106\055\061\061","\112\122\076\051\043\070\061\061","\118\086\054\067\070\086\087\084\076\070\061\061","\085\103\072\048\106\065\099\122\076\114\121\053\111\114\072\069\106\105\089\061","\106\067\080\067\076\054\054\069\116\105\072\113\106\112\054\069\111\105\069\061","\078\086\088\088\099\121\061\061","\085\071\097\067\099\069\106\048\106\055\061\061","\106\105\101\073\110\105\118\061","\119\086\099\047\082\080\054\085\115\043\114\110\055\068\112\087\120\071\047\102\102\055\061\061","\076\086\101\107\076\070\061\061","\076\086\103\088\106\105\120\066";"\076\122\120\103\078\121\061\061";"\107\047\048\055\051\087\069\061","\054\105\101\107\099\105\054\084\113\069\097\048\106\105\054\109\106\105\054\065\113\070\061\061";"\099\118\076\078\043\116\119\107\110\090\101\116\118\109\048\101";"\106\105\087\051\106\071\050\072\110\114\099\061";"\105\073\084\047\071\103\076\087\089\082\089\065\047\057\112\070\076\105\098\109\071\051\104\109\071\053\101\085\104\049\061\061";"\112\054\120\112\078\118\120\107\118\069\118\119\112\105\067\122\079\105\075\061","\106\105\101\051\043\049\061\061","\099\086\054\067\110\116\054\067\078\077\097\088\078\114\119\048","\106\122\101\079\080\067\119\114\112\065\072\076\054\105\076\120\097\070\061\061","\077\103\087\072\110\114\097\048\111\055\061\061";"\099\105\120\088\110\105\049\061","\076\077\050\084\110\122\113\061";"\077\103\087\107\076\077\097\088\106\105\101\073\110\105\118\061";"\110\090\069\061";"\111\073\066\072\120\099\077\055\053\055\102\053\102\099\107\105\080\073\108\070\118\120\072\106\081\116\054\078\057\117\078\069\067\121\083\086\078\069\069\061","\079\073\121\048\076\074\066\072\079\121\061\061","\116\082\048\068\070\122\076\070\043\109\101\052\076\122\072\077\099\055\061\061","\077\103\087\075\076\116\089\061","\100\052\103\114\076\087\069\061";"\097\086\054\067\118\086\054\084\106\114\048\109\076\070\061\061","\110\116\103\056\080\118\120\089\080\048\117\065\070\118\050\122\043\114\049\061";"\110\105\054\047";"\099\114\054\107\110\122\076\048";"\085\122\101\098\111\090\069\103\080\067\053\119\112\067\053\052\054\122\069\061";"\099\114\101\047\076\105\087\107","";"\110\067\065\119\076\077\072\119\043\090\121\103\054\065\054\107","\079\121\061\061","\082\098\100\073\097\073\109\076\071\105\116\116\110\055\061\061","\111\090\048\078\112\048\048\113\043\116\101\090\120\103\088\075\054\049\061\061";"\080\090\076\112\099\067\072\072\043\105\103\069\097\086\048\071";"\076\054\048\114\120\116\097\086\116\090\054\116\099\105\076\105\120\070\061\061","\080\114\097\090\116\077\050\080\054\105\103\083\076\077\069\061";"\110\105\087\088\076\071\120\067\099\114\048\047\076\049\061\061";"\099\122\097\084\043\116\053\082","\074\105\049\066\049\049\061\061";"\078\086\087\047\078\086\101\067","\120\054\106\113\097\122\117\089\110\109\054\109\099\069\053\047\085\121\061\061","\077\103\087\082\078\049\061\061";"\049\054\076\102\115\117\121\090\054\086\078\061","\110\116\101\067\043\055\061\061","\080\077\106\072\085\069\119\070\085\090\117\056\097\051\118\103\080\070\061\061","\106\116\053\049\078\116\120\068","\106\105\087\047\106\116\103\073\076\077\113\061"}local function B(B)return r[B-(-638758+660465)]end for B,Q in ipairs({{789419+-789418,-755049-(-755108)};{608495-608494;552703+-552647},{579126+-579069,85288-85229}})do while Q[-1036246+1036247]<Q[-874959-(-874961)]do r[Q[-579652+579653]],r[Q[-452712-(-452714)]],Q[-601101-(-601102)],Q[-619891-(-619893)]=r[Q[1020772+-1020770]],r[Q[-416234+416235]],Q[347042+-347041]+(911763+-911762),Q[-338399-(-338401)]-(-417590+417591)end end do local B=table.concat local Q=math.floor local n=string.sub local J={y=-979542+979574,j=868288-868259,["\055"]=658614+-658614,u=623096+-623095;E=462525+-462521,r=-651831+651869,V=-158777+158831,["\043"]=-364353+364379,X=750317+-750284,H=904649+-904608,P=-909030+909042;M=-1025672+1025695,f=-557948-(-558011),k=-936439+936484,["\049"]=718055+-718007,["\050"]=473210+-473201;m=-856672-(-856707),l=793018+-792976;s=94169+-94122;F=-475145-(-475161),R=549156-549117;Z=-367510-(-367513),c=-154362-(-154390),["\057"]=914672-914641,d=-962050-(-962112),K=992842+-992798;N=-567213+567237;i=-449171-(-449177);B=-323797+323837,["\048"]=313321+-313284,t=-819355+819377;z=594979+-594924,["\054"]=-761900+761921;I=209020+-208986;w=-309827+309876,["\053"]=-171479+171536;J=-634322+634324,Y=-566825+566881,b=-716972+716987,T=-793702-(-793752),C=-474676+474728;e=945845-945840;p=-753359-(-753378),g=-743920-(-743973),A=861265+-861229,S=661098-661087;G=335210-335203;Q=-270456+270515;L=-728068-(-728093);x=938389+-938376;D=-6596+6639,n=-143666+143693,h=-140077-(-140137),["\047"]=-277462-(-277508);["\051"]=-163795-(-163846);W=-978475-(-978536),U=695058-695040,a=927175+-927158;o=796195-796165;q=280356-280348,["\056"]=236106+-236048;v=191707-191687,O=-494840+494854,["\052"]=-208572+208582}local R=type local P=string.char local Y=string.len local d=r local C=table.insert for r=11846+-11845,#d,-15207+15208 do local v=d[r]if R(v)=="\115\116\114\105\110\103"then local R=Y(v)local X={}local I=-932493-(-932494)local U=1008611-1008611 local V=948703+-948703 while I<=R do local r=n(v,I,I)local B=J[r]if B then U=U+B*(-361560+361624)^((-769194-(-769197))-V)V=V+(266265-266264)if V==996676+-996672 then V=630500-630500 local r=Q(U/(-1036013+1101549))local B=Q((U%(-816089+881625))/(-250638+250894))local n=U%(696604-696348)C(X,P(r,B,n))U=234319-234319 end elseif r=="\061"then C(X,P(Q(U/(998536-933000))))if I>=R or n(v,I+(126829+-126828),I+(783706+-783705))~="\061"then C(X,P(Q((U%(-890114-(-955650)))/(-599701+599957))))end break end I=I+(-464249-(-464250))end d[r]=B(X)end end end return(function(r,n,J,R,P,Y,d,V,t,I,v,C,l,U,a,o,Z,Q,X)Z,o,Q,a,C,v,V,U,I,l,t,X=function(r,B)local n=U(B)local J=function(J,R,P,Y,d)return Q(r,{J,R,P,Y,d},B,n)end return J end,function(r)v[r]=v[r]-(5587+-5586)if-399868+399868==v[r]then v[r],C[r]=nil,nil end end,function(Q,J,R,P)local U,p,e,k,I,f,c,N,s,d,K,M,w,h,q,T,E,G,u,W,v,z,S,t,x,H,i,V,y,L,m,j,b,A while Q do if Q<764303+7552186 then if Q<3691685-632190 then if Q<1568853-(-84093)then if Q<1315857-796719 then if Q<89963+373858 then if Q<-677902-(-694387)then if Q<-84621+88426 then d={}Q=r[B(752004+-730276)]else f=C[t]Q=-590700+1054903 d=f end else L=-985895-(-985960)h=X()C[h]=d Q=C[w]y=223523-223520 d=Q(y,L)y=X()C[y]=d N=B(-791712-(-813442))Q=-538206-(-538206)L=Q Q=-837039-(-837039)S=Z(12722662-106629,{})d=r[N]N={d(S)}d=-78118-(-78120)E=Q Q={n(N)}q=B(162880-141157)N=Q Q=N[d]d=B(-575366-(-597129))S=Q Q=r[d]m=C[U]b=r[q]q=b(S)b=B(-322737+344472)j=m(q,b)m={j()}d=Q(n(m))m=X()C[m]=d j=C[y]b=j d=77637-77636 Q=7248858-(-827352)j=574952-574951 q=j j=-938972-(-938972)x=q<j j=d-q end else if Q<292452-(-215927)then w=B(486087+-464327)f=d d=r[w]w=B(-589055+610799)Q=d[w]w=X()G=B(369579+-347864)E=B(-219153-(-240868))C[w]=Q d=r[G]G=B(-337784+359540)Q=d[G]G=Q y=Q L=r[E]h=L Q=L and 6831769-809976 or-981203+1524591 else v=B(878930+-857209)d=B(-960373-(-982104))Q=r[d]d=Q(v)Q=r[B(-785538-(-807299))]d={}end end else if Q<-941737+1670322 then if Q<1090863-548697 then if Q<1510116-972643 then Q=true d={}C[R[211074-211073]]=Q Q=r[B(789446+-767724)]else U=B(-715547+737301)I=X()v=J Q=true C[I]=Q d=r[U]w=B(450291+-428561)U=B(530435+-508717)V=X()Q=d[U]t=X()U=X()C[U]=Q G=a(1480320-957935,{t})Q=a(1414030-895285,{})C[V]=Q Q=false C[t]=Q f=r[w]w=f(G)d=w Q=w and-479982-(-485927)or 355142+109061 end else d=h Q=y Q=h and-320672+744533 or 806000+1765456 end else if Q<-489930+1818637 then Q=4707891-(-468055)T=-611357-(-611358)K=H[T]e=K else Q=4234071-(-233658)end end end else if Q<-657587+3014993 then if Q<-668895+2713590 then if Q<1508364-(-449344)then if Q<-789013+2523082 then e=C[I]d=e Q=e and 3935700-(-279747)or 15002187-393211 else Q=2817166-834769 w=nil f=nil V=nil end else d={I}Q=r[B(-243450+265201)]end else if Q<896675+1242572 then x=-697671-(-697671)m=#N S=m==x Q=S and-805784+13527474 or 10952097-252753 else Q=C[R[-926262-(-926263)]]G=76327+-76327 h=582247+-581992 w=Q(G,h)I=U v[I]=w Q=-271862+14176425 I=nil end end else if Q<2370063-(-222869)then if Q<-369666+2917783 then if Q<2526614-95455 then s=o(s)u=o(u)M=o(M)p=o(p)i=o(i)H=nil A=o(A)Q=422150+7654060 else I=C[R[-444910-(-444913)]]U=675514+-675482 v=I%U V=C[R[-308261+308265]]L=1020980-1020967 w=C[R[131497+-131495]]S=C[R[231461-231458]]h=-459856+459858 N=S-v S=-579329+579361 E=N/S y=L-E G=h^y f=w/G t=V(f)V=-674740+4295642036 U=t%V G=143433+-143432 t=1040262-1040260 V=t^v I=U/V V=C[R[-993098-(-993102)]]w=I%G G=-902955+4295870251 f=w*G t=V(f)V=C[R[572218+-572214]]f=V(I)w=410285-344749 U=t+f t=-377770+443306 V=U%t f=U-V L=-449166+449422 t=f/w w=-591560+591816 Q=12336553-494490 f=V%w I=nil v=nil U=nil G=V-f h=523009-522753 w=G/h h=736537+-736281 G=t%h y=t-G V=nil h=y/L t=nil y={f,w;G,h}C[R[224671-224670]]=y h=nil w=nil f=nil G=nil end else Q=494548-70687 y=B(-1241-(-23003))h=r[y]d=h end else if Q<3266286-429691 then I=C[R[520395-520393]]Q=12207142-(-204208)U=C[R[-698549+698552]]v=I==U d=v else S=895985+34064341881349 L=B(-160932-(-182658))y=r[L]Q=264964+15278003 p=-337224+20493562137231 N=B(12195+9543)E=U(N,S)S=998468+3079617726806 L=I[E]V=y[L]A=-262523+24151857212777 y=V(G)N=B(171858-150110)y=B(351951+-330234)V=r[y]m=B(-535790+557510)y=B(373573-351834)E=U(N,S)L=I[E]N=B(137496-115780)y=V[y]S=23845835444578-(-678398)y=y(V,L)E=U(N,S)x=-669983+34835844429948 L=I[E]u=42502+31298735559400 V=B(-532852-(-554562))M=1024447+6968400210669 S=U(m,x)N=I[S]x=B(915006+-893298)m=U(x,A)A=B(576295+-554540)S=I[m]x=U(A,u)m=I[x]u=B(911877-890143)A=U(u,M)x=I[A]M=B(827733+-805974)u=U(M,p)A=I[u]V=y[V]u=529202+-529199 E={[N]=S,[m]=x;[A]=u}V=V(y,L,E)end end end end else if Q<-4967+5810699 then if Q<3620667-(-497949)then if Q<-885026+4441559 then if Q<3671807-200181 then if Q<3315478-59184 then Q=C[R[-1034993+1035003]]I=C[R[1037864-1037853]]v[Q]=I Q=C[R[283187+-283175]]I={Q(v)}Q=r[B(-329078+350835)]d={n(I)}else G=B(-820164+841917)V=r[G]y={V(w)}h=y[-922463-(-922465)]G=y[-167425-(-167426)]Q=G and 3652342-735968 or 14675779-(-867188)end else b=L==E j=b Q=8501940-384830 end else if Q<609980+3101336 then Q={}U=C[R[-312989+312998]]v=Q V=U I=77613-77612 U=-275911-(-275912)t=U U=-851904+851904 Q=46285+13858278 f=t<U U=I-t else Q=true Q=Q and 404394+8635379 or 7740947-(-552826)end end else if Q<4431537-(-425062)then if Q<4998245-593485 then if Q<-703360+4921838 then K=Q c=17328+-17327 W=H[c]c=false T=W==c Q=T and-117013+12091515 or 322377+9336212 e=T else I=C[R[253507+-253506]]V=-915302+915303 t=-41727+41729 U=I(V,t)I=-487958+487959 v=U==I d=v Q=v and 12568528-157178 or 1744050-(-878668)end else Q=true Q=Q and 15575399-(-632238)or-341019-(-342661)end else if Q<-848737+6065459 then C[I]=e c=C[M]z=994827+-994826 W=c+z T=H[W]K=L+T T=254842+-254586 Q=K%T L=Q W=C[u]T=E+W W=549383-549127 K=T%W E=K Q=1707643-(-675590)else Q=8973948-107339 end end end else if Q<8918327-887433 then if Q<-318987+7708831 then if Q<5791072-(-948424)then if Q<6567843-(-82593)then Q=-61988-(-605376)N=B(-216074-(-237789))E=r[N]N=B(-206877+228639)L=E[N]h=L else v=C[R[78616-78615]]d=#v v=-217389-(-217389)Q=d==v Q=Q and 15465886-925369 or 12517098-675035 end else Q=809515+11257068 v=nil C[R[77245+-77240]]=d end else if Q<74165+7717953 then A=B(-753903+775636)q=B(854072+-832349)Q=r[q]x=r[A]q=Q(x)Q=B(-54796+76562)r[Q]=q Q=50991+9648083 else Q=961666-(-1020731)end end else if Q<7900968-(-229064)then if Q<-706245+8799754 then A=not x j=j+q d=j<=b d=A and d A=j>=b A=x and A d=A or d A=10943464-(-531097)Q=d and A d=13722324-798174 Q=Q or d else C[I]=j Q=C[I]Q=Q and 4211473-(-1032983)or 15088745-(-245892)end else if Q<-457961+8748495 then Q=C[R[471896+-471895]]U=Q I=J[336998+-336996]v=J[-218275+218276]Q=U[I]Q=Q and 7846959-12570 or-552720+16700138 else Q=r[B(-140502-(-162227))]d={}end end end end end else if Q<12881531-464533 then if Q<17861+10980554 then if Q<507747+9171187 then if Q<292135+9115452 then if Q<9793581-863815 then if Q<182835+8253943 then d=B(581944-560227)I=B(-929245-(-950959))Q=r[d]I=Q[I]v=C[R[-127021-(-127022)]]d={I(Q,v)}Q=r[B(-793648-(-815384))]d={n(d)}else y=o(y)S=nil L=nil w=o(w)U=o(U)U=nil I=o(I)w=B(-685590+707350)V=o(V)G=nil h=o(h)Q=-304126+16633296 G=B(-379006+400721)N=nil f=nil f=B(770530-748770)m=o(m)I=nil E=nil m=294658+-294402 t=o(t)x=m t=r[f]f=B(495868+-474103)V=t[f]t=X()C[t]=V f=r[w]w=B(598496-576752)V=f[w]w=r[G]E=X()G=B(586402-564660)f=w[G]L={}h=B(920512-898758)G=r[h]m=102432+-102431 h=B(745486-723773)w=G[h]S=-437209+437210 G=-388452+388452 h=X()C[h]=G A=m m=577850-577850 y=X()G=-580617+580619 C[y]=G C[E]=L L=-36860+36860 G={}s=A<m m=S-A N={}end else v=B(-262966-(-284699))d=B(137982+-116216)Q=r[d]d=r[v]v=B(852765-831032)r[v]=Q v=B(908875+-887109)r[v]=d v=C[R[-191779-(-191780)]]Q=2992788-(-758582)I=v()end else if Q<9239321-(-415608)then Q=4356172-604802 else d=e Q=K Q=13678718-(-930258)end end else if Q<10915266-244430 then if Q<10844778-492008 then if Q<222684+9917096 then Q=-801154+5268883 else x=B(413227-391461)Q=r[x]x=B(-932256+953989)r[x]=Q Q=10148615-449541 end else S=m Q=1028995+15300175 u=S N[S]=u S=nil end else if Q<10695939-565 then Q=914017+6447270 U=C[R[-689540-(-689546)]]I=U==v d=I else m=563248-563247 x=#N S=V(m,x)m=f(N,S)Q=1929609-(-154641)S=nil x=C[E]u=-418283-(-418284)s=m-u A=w(s)x[m]=A m=nil end end end else if Q<12759380-926869 then if Q<963302+10687302 then if Q<10796383-(-551728)then if Q<10828046-(-322988)then G=B(-172394-(-194124))V=B(-131098-(-152821))d=B(344199-322436)Q=r[d]h=a(826149+11591146,{})v=C[R[-670278+670282]]U=r[V]w=r[G]G={w(h)}f={n(G)}w=780623-780621 t=f[w]V=U(t)U=B(666201+-644466)I=v(V,U)v={I()}d=Q(n(v))I=C[R[996182+-996177]]Q=I and 672529+10001928 or 632131+6729156 v=d d=I else Q=a(-330773+9982156,{V})b={Q()}d={n(b)}Q=r[B(-474542-(-496291))]end else z=-21573-(-21573)u=-299589+299689 s=B(-561350-(-583110))A=X()C[A]=j d=r[s]s=B(-524093-(-545837))Q=d[s]s=-947389+947390 d=Q(s,u)s=X()C[s]=d u=666192-666192 Q=C[w]M=-277431+277686 d=Q(u,M)u=X()C[u]=d i=-696873-(-696874)M=-771804+771805 Q=C[w]p=C[s]H=539255-539253 d=Q(M,p)M=X()C[M]=d d=C[w]T=B(-586330+608053)p=d(i,H)d=-601517+601518 Q=p==d k=-863017-(-873017)H=B(-663604+685351)d=B(-737441-(-759176))p=X()C[p]=Q K=r[T]Q=B(993968+-972249)W=C[w]c={W(z,k)}Q=S[Q]T=K(n(c))K=B(-1023874-(-1045621))e=T..K i=H..e H=B(-184123-(-205853))Q=Q(S,d,i)i=X()C[i]=Q e=l(21717+4305034,{w,A;y;U,I,m;p;i;s;M;u,h})d=r[H]H={d(e)}Q={n(H)}H=Q Q=C[p]Q=Q and 1282336-(-391605)or 15095980-(-868091)end else if Q<507151+11261385 then I=C[R[383509-383506]]U=-548755+548905 Q=14363058-392120 v=I*U I=898498-898241 d=v%I C[R[383724-383721]]=d else v=B(553626+-531895)Q=r[v]U=-985975+985975 I=C[R[506330+-506322]]v=Q(I,U)Q=3587689-(-102973)end end else if Q<-497012+12496961 then if Q<-839261+12762329 then U=B(534958-513243)I=r[U]U=B(265781+-244039)v=I[U]U=C[R[-246715-(-246716)]]I={v(U)}Q=r[B(845818+-824078)]d={n(I)}else c=-762280-(-762282)W=H[c]c=C[i]Q=9545612-(-112977)T=W==c e=T end else if Q<12962232-556135 then Q=C[R[-602627+602634]]Q=Q and 82764+11696043 or 669447+3021215 else Q=d and 11011259-(-78359)or 114616+11951967 end end end end else if Q<-757410+15965369 then if Q<12847501-(-228789)then if Q<12686533-32845 then if Q<12664431-32906 then if Q<-807044+13418621 then I=B(247390-225640)d=3786787-(-743290)U=-91871+11190695 v=I^U Q=d-v d=B(-948157+969866)v=Q Q=d/v d={Q}Q=r[B(-951884-(-973596))]else I=B(665978+-644226)U=771394+105854 d=-906287+17246646 v=I^U Q=d-v v=Q d=B(-368929-(-390672))Q=d/v d={Q}Q=r[B(167905+-146194)]end else N=not E y=y+L G=y<=h G=N and G N=y>=h N=E and N G=N or G N=353490+15073295 Q=G and N G=172979+1583538 Q=Q or G end else if Q<204881+12704249 then m=X()s=B(826586+-804859)u={}S={}p=B(-221835+243564)T=nil x=a(7427495-722756,{m;h;y;t})C[m]=S S=X()t=o(t)C[S]=x G=nil L=nil N=nil w=nil A=X()x={}C[A]=x H=B(-849661-(-871393))x=r[s]i=C[A]M={[p]=i,[H]=T}s=x(u,M)I=s f=nil V=nil x=Z(8023694-(-258741),{A,m;E,h,y;S})f=B(-185072+206796)U=x E=o(E)m=o(m)A=o(A)S=o(S)y=o(y)h=o(h)w=19621212678978-591762 t=U(f,w)f=B(-63905+85635)V=I[t]t=X()C[t]=V G=l(8724686-343297,{t})V=r[f]h={V(G)}w=h[-643696+643698]f=h[743889-743888]Q=f and-81403+3342971 or 250196+15781211 else b=C[I]Q=b and 3604147-48317 or 490870+7626240 j=b end end else if Q<14672230-431568 then if Q<586472+13377700 then if Q<14309202-414524 then Q=true Q=Q and 1940776-305555 or 10434777-(-750752)else w=not f U=U+t I=U<=V I=w and I w=U>=V w=f and w I=w or I w=205533+2113387 Q=I and w I=3344692-266892 Q=Q or I end else I=C[R[657254+-657251]]U=-591245-(-591246)v=I~=U Q=v and 417898+2061094 or-71163+11821071 end else if Q<14317153-(-261134)then U=334971+-334806 I=C[R[322103-322101]]v=I*U I=29686864558307-1032932 d=v+I I=655861-655860 v=768806+35184371320026 Q=d%v C[R[195406-195404]]=Q v=C[R[1001892-1001889]]d=v~=I Q=12724684-974776 else Q=2038139-(-345094)C[I]=d end end end else if Q<519666+15519823 then if Q<15155722-(-616501)then if Q<14853822-(-631245)then if Q<15598273-255590 then Q=true Q=11528631-343102 else G=y q=B(-607444+629198)b=r[q]q=B(797300-775536)Q=11654259-(-998604)j=b[q]b=j(v,G)j=C[R[640357-640351]]q=j()m=b+q S=m+f G=nil m=209497+-209241 q=237605+-237604 N=S%m m=U[I]f=N b=f+q j=V[b]S=m..j U[I]=S end else G=nil Q=16070022-38615 h=nil end else if Q<15532713-(-434518)then K=C[I]Q=K and-188481-(-944304)or-965540+6141486 e=K else d={}I=nil U=nil f=nil w=nil t=o(t)Q=r[B(-1016451-(-1038197))]end end else if Q<656561+15497062 then if Q<15406622-(-691022)then x=-332909+332909 m=#N Q=10601672-(-97672)S=m==x else G=B(-566008-(-587762))Q={}w=1031920+-1031665 t=-397188+35184372486020 C[R[974261+-974259]]=Q d=C[R[297849+-297846]]V=d d=I%t C[R[-126144-(-126148)]]=d f=I%w w=599887+-599885 t=f+w y=420073-420072 C[R[85986-85981]]=t w=r[G]G=B(601623-579882)Q=12529670-(-123193)f=w[G]w=f(v)h=w f=B(688423-666678)U[I]=f f=-84311+84401 L=y G=918894-918893 y=-355884+355884 E=L<y y=G-L end else if Q<15551847-(-675367)then q=369774+-369773 Q=C[w]x=-434574+434580 b=Q(q,x)x=B(246818-225052)Q=B(2911+18855)r[Q]=b q=r[x]x=405152+-405150 Q=q>x Q=Q and 7636681-244144 or 112939+10069882 else u=not s m=m+A S=m<=x S=u and S u=m>=x u=s and u S=u or S u=9794028-(-876437)Q=S and u S=-760786+16817369 Q=Q or S end end end end end end end Q=#P return n(d)end,function(r,B)local n=U(B)local J=function(J,R,P)return Q(r,{J,R,P},B,n)end return J end,{},{},function(r)local B,Q=-301299+301300,r[659364-659363]while Q do v[Q],B=v[Q]-(-820513-(-820514)),(802330+-802329)+B if 250312+-250312==v[Q]then v[Q],C[Q]=nil,nil end Q=r[B]end end,function(r)for B=619367-619366,#r,103372+-103371 do v[r[B]]=(638590-638589)+v[r[B]]end if J then local Q=J(true)local n=P(Q)n[B(-285409-(-307138))],n[B(374042-352284)],n[B(566031-544294)]=r,V,function()return 244751+1305590 end return Q else return R({},{[B(-551622+573380)]=V,[B(-569303-(-591032))]=r,[B(1020415-998678)]=function()return 1717553-167212 end})end end,713156+-713156,function(r,B)local n=U(B)local J=function(J,R)return Q(r,{J;R},B,n)end return J end,function(r,B)local n=U(B)local J=function(...)return Q(r,{...},B,n)end return J end,function()I=I+(-564548+564549)v[I]=658317-658316 return I end return(t(226933+314593,{}))(n(d))end)(getfenv and getfenv()or _ENV,unpack or table[B(562976+-541214)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local LocalPlayer = Players.LocalPlayer
+local Camera = workspace.CurrentCamera
+
+local Vector2_new = Vector2.new
+local Vector3_new = Vector3.new
+local math_clamp = math.clamp
+local math_huge = math.huge
+local tick = tick
+local mousemove = mousemoverel or (Input and Input.MouseMove) or function() end
+
+local ScriptActive = true
+_G.AimbotEnabled = false
+_G.TeamCheck = false 
+_G.TargetPart = "Head"
+_G.AimBind = Enum.KeyCode.E
+_G.Smoothness = 1.0
+_G.KillDelayEnabled = false
+_G.DelayTime = 1.0
+_G.ESP_Skeleton = false
+_G.ESP_Box = false
+_G.ESP_HeadCircle = false
+_G.ESP_Tracers = false
+_G.ESP_Color = Color3.fromRGB(170, 0, 255)
+
+local ActiveButtons = {} 
+local DrawPool = {}
+local Row1 = {Color3.fromRGB(170, 0, 255), Color3.fromRGB(0, 255, 127), Color3.fromRGB(255, 50, 50), Color3.fromRGB(0, 255, 255)}
+local Row2 = {Color3.fromRGB(255, 255, 0), Color3.fromRGB(255, 120, 0), Color3.fromRGB(255, 255, 255), Color3.fromRGB(0, 100, 255)}
+local Row3 = {Color3.fromRGB(60, 0, 100), Color3.fromRGB(0, 20, 100), Color3.fromRGB(30, 60, 30), Color3.fromRGB(40, 40, 40)}
+
+local LockedTarget = nil
+local LastKillTime = 0
+
+local function MakeDraggable(Frame)
+    local Dragging, DragInput, DragStart, StartPos
+    Frame.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            Dragging = true; DragStart = input.Position; StartPos = Frame.Position
+            input.Changed:Connect(function() if input.UserInputState == Enum.UserInputState.End then Dragging = false end end)
+        end
+    end)
+    Frame.InputChanged:Connect(function(input) if input.UserInputType == Enum.UserInputType.MouseMovement then DragInput = input end end)
+    RunService.RenderStepped:Connect(function()
+        if Dragging and DragInput then
+            local Delta = DragInput.Position - DragStart
+            Frame.Position = UDim2.new(StartPos.X.Scale, StartPos.X.Offset + Delta.X, StartPos.Y.Scale, StartPos.Y.Offset + Delta.Y)
+        end
+    end)
+end
+
+local function IsEnemy(Player)
+    if not _G.TeamCheck then return true end
+    if Player.Team ~= LocalPlayer.Team then return true end
+    if Player.TeamColor ~= LocalPlayer.TeamColor then return true end
+    if Player:GetAttribute("Team") ~= LocalPlayer:GetAttribute("Team") then return true end
+    return false
+end
+
+local function IsBindDown()
+    local bind = _G.AimBind
+    if bind.EnumType == Enum.KeyCode then
+        return UserInputService:IsKeyDown(bind)
+    end
+    return UserInputService:IsMouseButtonPressed(bind)
+end
+
+local function CreateDraw(type, props)
+    local obj = Drawing.new(type)
+    for i, v in pairs(props) do obj[i] = v end
+    table.insert(DrawPool, obj)
+    return obj
+end
+
+local SkeletonLines, Boxes, HeadCircles, Tracers = {}, {}, {}, {}
+for i = 1, 300 do table.insert(SkeletonLines, CreateDraw("Line", {Thickness = 1.5, Visible = false})) end
+for i = 1, 50 do
+    table.insert(Boxes, CreateDraw("Square", {Thickness = 1.5, Visible = false}))
+    table.insert(HeadCircles, CreateDraw("Circle", {Thickness = 1.5, Visible = false, Radius = 7}))
+    table.insert(Tracers, CreateDraw("Line", {Thickness = 1.5, Visible = false}))
+end
+
+local Connections = {
+    {"Head", "UpperTorso"}, {"UpperTorso", "LowerTorso"}, {"UpperTorso", "LeftUpperArm"},
+    {"LeftUpperArm", "LeftLowerArm"}, {"UpperTorso", "RightUpperArm"}, {"RightUpperArm", "RightLowerArm"},
+    {"LowerTorso", "LeftUpperLeg"}, {"LeftUpperLeg", "LeftLowerLeg"}, {"LowerTorso", "RightUpperLeg"}, {"RightUpperLeg", "RightLowerLeg"}
+}
+
+local function GetClosestTarget()
+    if _G.KillDelayEnabled and (tick() - LastKillTime) < _G.DelayTime then return nil end
+    local target, dist = nil, math_huge
+    local mousePos = UserInputService:GetMouseLocation()
+    local partName = _G.TargetPart
+
+    for _, v in pairs(Players:GetPlayers()) do
+        if v ~= LocalPlayer and v.Character and IsEnemy(v) then
+            local pPart = v.Character:FindFirstChild(partName)
+            if pPart then
+                local pos, onS = Camera:WorldToViewportPoint(pPart.Position)
+                if onS then
+                    local mag = (Vector2_new(pos.X, pos.Y) - mousePos).Magnitude
+                    if mag < dist then dist = mag; target = v end
+                end
+            end
+        end
+    end
+    return target
+end
+
+local function BuildMenu()
+    local Parent = (gethui and gethui()) or game:GetService("CoreGui")
+    if Parent:FindFirstChild("CheozMenuAnim") then Parent.CheozMenuAnim:Destroy() end
+    
+    local sg = Instance.new("ScreenGui", Parent); sg.Name = "CheozMenuAnim"
+    local main = Instance.new("CanvasGroup", sg)
+    main.Size = UDim2.new(0, 550, 0, 480); main.BackgroundColor3 = Color3.fromRGB(15, 15, 15); main.BorderSizePixel = 0
+    main.AnchorPoint = Vector2_new(0.5, 0.5); main.Position = UDim2.new(0.5, 0, 0.4, 0); main.GroupTransparency = 1 
+    
+    Instance.new("UICorner", main).CornerRadius = UDim.new(0, 10)
+    local stroke = Instance.new("UIStroke", main); stroke.Thickness = 2.5; stroke.Color = _G.ESP_Color
+    
+    MakeDraggable(main)
+
+    local closeBtn = Instance.new("TextButton", main)
+    closeBtn.Size = UDim2.new(0, 30, 0, 30); closeBtn.Position = UDim2.new(1, -40, 0, 10)
+    closeBtn.Text = "X"; closeBtn.TextColor3 = Color3.new(1,1,1); closeBtn.Font = Enum.Font.GothamBold; closeBtn.BackgroundColor3 = Color3.fromRGB(200, 50, 50); closeBtn.ZIndex = 10; Instance.new("UICorner", closeBtn)
+
+    local title = Instance.new("TextLabel", main)
+    title.Size = UDim2.new(1, 0, 0, 60); title.Text = "CHEOZ MENU"; title.TextColor3 = _G.ESP_Color; title.Font = Enum.Font.LuckiestGuy; title.TextSize = 30; title.BackgroundTransparency = 1
+
+    local container = Instance.new("Frame", main)
+    container.Size = UDim2.new(1, -20, 1, -80); container.Position = UDim2.new(0, 10, 0, 70); container.BackgroundTransparency = 1
+
+    local function CreateSection(titleText, xPos)
+        local sec = Instance.new("Frame", container); sec.Size = UDim2.new(0.48, 0, 0.95, 0); sec.Position = UDim2.new(xPos, 0, 0, 0); sec.BackgroundColor3 = Color3.fromRGB(22, 22, 22); Instance.new("UICorner", sec)
+        local t = Instance.new("TextLabel", sec); t.Size = UDim2.new(1, 0, 0, 35); t.Text = titleText; t.TextColor3 = _G.ESP_Color; t.Font = Enum.Font.GothamBold; t.TextSize = 13; t.BackgroundTransparency = 1
+        local list = Instance.new("Frame", sec); list.Size = UDim2.new(0.9, 0, 0.85, 0); list.Position = UDim2.new(0.05, 0, 0.12, 0); list.BackgroundTransparency = 1
+        Instance.new("UIListLayout", list).Padding = UDim.new(0, 8); list.UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+        return list, t
+    end
+
+    local combatList, cT = CreateSection("COMBAT SYSTEM", 0)
+    local visualList, vT = CreateSection("VISUALS & ESP", 0.52)
+
+    local function MakeSlider(parent, txt, var, max, order)
+        local f = Instance.new("Frame", parent); f.Size = UDim2.new(1, 0, 0, 45); f.BackgroundColor3 = Color3.fromRGB(30, 30, 30); f.Visible = false; f.LayoutOrder = order; Instance.new("UICorner", f)
+        local tL = Instance.new("TextLabel", f); tL.Size = UDim2.new(1, 0, 0, 25); tL.Text = txt .. ": " .. string.format("%.1f", _G[var]); tL.TextColor3 = Color3.new(0.8,0.8,0.8); tL.BackgroundTransparency = 1; tL.TextSize = 12
+        local sB = Instance.new("TextButton", f); sB.Size = UDim2.new(0.8, 0, 0, 4); sB.Position = UDim2.new(0.1, 0, 0.75, 0); sB.Text = ""; sB.BackgroundColor3 = Color3.fromRGB(50,50,50)
+        local k = Instance.new("Frame", sB); k.Size = UDim2.new(0, 10, 0, 10); k.Position = UDim2.new(_G[var]/max, -5, 0.5, -5); k.BackgroundColor3 = _G.ESP_Color; Instance.new("UICorner", k)
+        ActiveButtons[f] = function(color) k.BackgroundColor3 = color end
+        sB.MouseButton1Down:Connect(function()
+            local conn; conn = RunService.RenderStepped:Connect(function()
+                if not UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) then conn:Disconnect() return end
+                local rel = math_clamp((UserInputService:GetMouseLocation().X - sB.AbsolutePosition.X) / sB.AbsoluteSize.X, 0, 1)
+                _G[var] = rel * max; k.Position = UDim2.new(rel, -5, 0.5, -5); tL.Text = txt .. ": " .. string.format("%.1f", _G[var])
+            end)
+        end)
+        return f
+    end
+
+    local function MakeBtn(parent, txt, var, order, callback)
+        local b = Instance.new("TextButton", parent); b.Size = UDim2.new(1, 0, 0, 35); b.BackgroundColor3 = Color3.fromRGB(35, 35, 35); b.Text = txt; b.TextColor3 = Color3.new(1,1,1); b.Font = Enum.Font.Gotham; b.TextSize = 13; b.LayoutOrder = order; Instance.new("UICorner", b)
+        local function updateColor()
+            if type(_G[var]) == "boolean" then
+                b.BackgroundColor3 = _G[var] and _G.ESP_Color or Color3.fromRGB(35, 35, 35)
+                b.TextColor3 = _G[var] and Color3.new(0,0,0) or Color3.new(1,1,1)
+            end
+        end
+        ActiveButtons[b] = updateColor 
+        b.MouseButton1Click:Connect(function() 
+            if type(_G[var]) == "boolean" then _G[var] = not _G[var] end
+            updateColor(); if callback then callback(_G[var]) end 
+        end)
+        updateColor()
+        return b
+    end
+
+    local smS = MakeSlider(combatList, "Smoothness", "Smoothness", 1, 2)
+    local targetBtn = MakeBtn(combatList, "Target: Head", "TargetPart", 0, function()
+        if _G.TargetPart == "Head" then _G.TargetPart = "UpperTorso"
+        elseif _G.TargetPart == "UpperTorso" then _G.TargetPart = "LeftLowerLeg"
+        else _G.TargetPart = "Head" end
+    end)
+    RunService.RenderStepped:Connect(function() targetBtn.Text = "Target: " .. (_G.TargetPart == "UpperTorso" and "Body" or _G.TargetPart == "LeftLowerLeg" and "Legs" or "Head") end)
+
+    local aimFrame = Instance.new("Frame", combatList); aimFrame.Size = UDim2.new(1, 0, 0, 35); aimFrame.BackgroundTransparency = 1; aimFrame.LayoutOrder = 1
+    local aimBtn = MakeBtn(aimFrame, "Aim Bot", "AimbotEnabled", 1, function(v) smS.Visible = v end)
+    aimBtn.Size = UDim2.new(0.7, -5, 1, 0)
+    
+    local kbBtn = Instance.new("TextButton", aimFrame); kbBtn.Size = UDim2.new(0.3, 0, 1, 0); kbBtn.Position = UDim2.new(0.7, 0, 0, 0); kbBtn.BackgroundColor3 = Color3.fromRGB(30, 30, 30); kbBtn.Text = "[".._G.AimBind.Name.."]"; kbBtn.TextColor3 = Color3.new(1,1,1); kbBtn.Font = Enum.Font.Gotham; kbBtn.TextSize = 10; Instance.new("UICorner", kbBtn)
+
+    kbBtn.MouseButton1Click:Connect(function()
+        kbBtn.Text = "[...]";
+        local conn; conn = UserInputService.InputBegan:Connect(function(input)
+            local itype = input.UserInputType
+            if itype == Enum.UserInputType.Keyboard or itype == Enum.UserInputType.MouseButton2 or itype == Enum.UserInputType.MouseButton4 or itype == Enum.UserInputType.MouseButton5 then
+                _G.AimBind = (itype == Enum.UserInputType.Keyboard) and input.KeyCode or itype
+                kbBtn.Text = "[".._G.AimBind.Name.."]"; conn:Disconnect()
+            end
+        end)
+    end)
+
+    local dlS = MakeSlider(combatList, "Delay", "DelayTime", 3, 4)
+    MakeBtn(combatList, "Kill Delay", "KillDelayEnabled", 3, function(v) dlS.Visible = v end)
+    MakeBtn(combatList, "Team Check", "TeamCheck", 5)
+
+    MakeBtn(visualList, "ESP Boxes", "ESP_Box", 1)
+    MakeBtn(visualList, "ESP Skeleton", "ESP_Skeleton", 2)
+    MakeBtn(visualList, "ESP Head", "ESP_HeadCircle", 3)
+    MakeBtn(visualList, "ESP Tracers", "ESP_Tracers", 4)
+
+    local function CreateColorRow(colors, order)
+        local row = Instance.new("Frame", visualList); row.Size = UDim2.new(1, 0, 0, 30); row.BackgroundTransparency = 1; row.LayoutOrder = order
+        Instance.new("UIListLayout", row).FillDirection = "Horizontal"; row.UIListLayout.HorizontalAlignment = "Center"; row.UIListLayout.Padding = UDim.new(0, 8)
+        for _, col in pairs(colors) do
+            local b = Instance.new("TextButton", row); b.Size = UDim2.new(0, 25, 0, 25); b.BackgroundColor3 = col; b.Text = ""; Instance.new("UICorner", b).CornerRadius = UDim.new(1, 0)
+            b.MouseButton1Click:Connect(function()
+                _G.ESP_Color = col; stroke.Color = col; title.TextColor3 = col; cT.TextColor3 = col; vT.TextColor3 = col;
+                for btn, update in pairs(ActiveButtons) do update(col) end
+            end)
+        end
+    end
+    CreateColorRow(Row1, 6); CreateColorRow(Row2, 7); CreateColorRow(Row3, 8)
+
+    local isOpen = false
+    local function ToggleMenu()
+        isOpen = not isOpen
+        if isOpen then
+            main.Visible = true; main.Size = UDim2.new(0, 500, 0, 430)
+            TweenService:Create(main, TweenInfo.new(0.4, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {Size = UDim2.new(0, 550, 0, 480), GroupTransparency = 0}):Play()
+        else
+            local t = TweenService:Create(main, TweenInfo.new(0.3, Enum.EasingStyle.Quart, Enum.EasingDirection.In), {Size = UDim2.new(0, 500, 0, 430), GroupTransparency = 1})
+            t:Play(); t.Completed:Connect(function() if not isOpen then main.Visible = false end end)
+        end
+    end
+    ToggleMenu() 
+    UserInputService.InputBegan:Connect(function(i) if i.KeyCode == Enum.KeyCode.Insert then ToggleMenu() end end)
+    closeBtn.MouseButton1Click:Connect(function() ScriptActive = false; for _, v in pairs(DrawPool) do v:Remove() end sg:Destroy() end)
+end
+
+RunService.RenderStepped:Connect(function()
+    if not ScriptActive then return end
+    local espCol = _G.ESP_Color
+    for i = 1, 300 do SkeletonLines[i].Visible = false; SkeletonLines[i].Color = espCol end
+    for i = 1, 50 do 
+        Boxes[i].Visible = false; Boxes[i].Color = espCol
+        HeadCircles[i].Visible = false; HeadCircles[i].Color = espCol
+        Tracers[i].Visible = false; Tracers[i].Color = espCol
+    end
+    local sk_i, bx_i, hd_i, tr_i = 1, 1, 1, 1
+    local viewportSize = Camera.ViewportSize
+    for _, p in pairs(Players:GetPlayers()) do
+        if p ~= LocalPlayer and p.Character and IsEnemy(p) then
+            local root = p.Character:FindFirstChild("HumanoidRootPart")
+            if root then
+                local hrpPos, onS = Camera:WorldToViewportPoint(root.Position)
+                if onS then
+                    if _G.ESP_Box then
+                        local head = p.Character:FindFirstChild("Head")
+                        if head then
+                            local hP = Camera:WorldToViewportPoint(head.Position + Vector3_new(0, 0.5, 0))
+                            local lP = Camera:WorldToViewportPoint(root.Position - Vector3_new(0, 3, 0))
+                            local h = math.abs(hP.Y - lP.Y); local w = h * 0.6
+                            local b = Boxes[bx_i]; b.Visible = true; b.Size = Vector2_new(w, h); b.Position = Vector2_new(hrpPos.X - w/2, hrpPos.Y - h/2); bx_i = bx_i + 1
+                        end
+                    end
+                    if _G.ESP_HeadCircle then
+                        local head = p.Character:FindFirstChild("Head")
+                        if head then
+                            local hP = Camera:WorldToViewportPoint(head.Position)
+                            local c = HeadCircles[hd_i]; c.Visible = true; c.Position = Vector2_new(hP.X, hP.Y); hd_i = hd_i + 1
+                        end
+                    end
+                    if _G.ESP_Tracers then
+                        local t = Tracers[tr_i]; t.Visible = true; t.From = Vector2_new(viewportSize.X/2, viewportSize.Y); t.To = Vector2_new(hrpPos.X, hrpPos.Y); tr_i = tr_i + 1
+                    end
+                    if _G.ESP_Skeleton then
+                        for _, conn in pairs(Connections) do
+                            local p1, p2 = p.Character:FindFirstChild(conn[1]), p.Character:FindFirstChild(conn[2])
+                            if p1 and p2 then
+                                local v1, o1 = Camera:WorldToViewportPoint(p1.Position); local v2, o2 = Camera:WorldToViewportPoint(p2.Position)
+                                if (o1 or o2) and SkeletonLines[sk_i] then
+                                    local s = SkeletonLines[sk_i]; s.Visible = true; s.From = Vector2_new(v1.X, v1.Y); s.To = Vector2_new(v2.X, v2.Y); sk_i = sk_i + 1
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+    if _G.AimbotEnabled and IsBindDown() then
+        local t = LockedTarget or GetClosestTarget()
+        if t and t.Character then
+            local pPart = t.Character:FindFirstChild(_G.TargetPart)
+            if pPart then
+                LockedTarget = t; local targetPos, onS = Camera:WorldToViewportPoint(pPart.Position)
+                if onS then
+                    local mP = UserInputService:GetMouseLocation()
+                    mousemove((targetPos.X - mP.X) * _G.Smoothness, (targetPos.Y - mP.Y) * _G.Smoothness)
+                else LockedTarget = nil end
+            else LockedTarget = nil end
+        else 
+            if LockedTarget then LastKillTime = tick() end; LockedTarget = nil 
+        end
+    else LockedTarget = nil end
+end)
+
+pcall(BuildMenu)
