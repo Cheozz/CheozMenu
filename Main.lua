@@ -1,16 +1,133 @@
--- [[ TRAVA DE SEGURANÇA CHEOZ ]]
-if _G.CheozPermitido ~= "CHEOZ_AUTH_9921" then 
-    print("ACESSO BLOQUEADO: Este script so funciona atraves do Main.lua oficial.")
-    return 
+local LinkDaKey = "https://work.ink/2h4Z/cheoz-menu-key-system" 
+
+local ScriptOriginal = "https://raw.githubusercontent.com/Cheozz/CheozMenu/main/Loader"
+
+
+
+local function Validar(v_key)
+
+    local url = "https://work.ink/_api/v2/token/isValid/" .. v_key
+
+    local success, response = pcall(function() return game:HttpGet(url) end)
+
+    return success and response:find('"valid":true')
+
 end
 
-local a=game:GetService("Players");local b=game:GetService("RunService");local c=game:GetService("UserInputService");local d=game:GetService("TweenService");local e=a.LocalPlayer;local f=workspace.CurrentCamera;local g=Vector2.new;local h=Vector3.new;local i=math.clamp;local j=math.huge;local k=tick;local l=mousemoverel or(Input and Input.MouseMove)or function()end;local m=true;_G.AimbotEnabled=false;_G.TeamCheck=false;_G.TargetPart="Head";_G.AimBind=Enum.KeyCode.E;_G.Smoothness=1.0;_G.KillDelayEnabled=false;_G.DelayTime=1.0;_G.ESP_Skeleton=false;_G.ESP_Box=false;_G.ESP_HeadCircle=false;_G.ESP_Tracers=false;_G.ESP_Color=Color3.fromRGB(170,0,255);local n={}local o={}local p={Color3.fromRGB(170,0,255),Color3.fromRGB(0,255,127),Color3.fromRGB(255,50,50),Color3.fromRGB(0,255,255)}local q={Color3.fromRGB(255,255,0),Color3.fromRGB(255,120,0),Color3.fromRGB(255,255,255),Color3.fromRGB(0,100,255)}local r={Color3.fromRGB(60,0,100),Color3.fromRGB(0,20,100),Color3.fromRGB(30,60,30),Color3.fromRGB(40,40,40)}local s=nil;local t=0;local function u(v)local w,x,y,z;v.InputBegan:Connect(function(A)if A.UserInputType==Enum.UserInputType.MouseButton1 then w=true;y=A.Position;z=v.Position;A.Changed:Connect(function()if A.UserInputState==Enum.UserInputState.End then w=false end end)end end);v.InputChanged:Connect(function(A)if A.UserInputType==Enum.UserInputType.MouseMovement then x=A end end);b.RenderStepped:Connect(function()if w and x then local B=x.Position-y;v.Position=UDim2.new(z.X.Scale,z.X.Offset+B.X,z.Y.Scale,z.Y.Offset+B.Y)end end)end;
 
--- FIX PARA ARSENAL (BYPASS GETTEAM ERROR)
-local function C(D)
-    if not _G.TeamCheck then return true end
-    local myTeam = e.Team or e:GetAttribute("Team")
-    local enemyTeam = D.Team or D:GetAttribute("Team")
-    if myTeam ~= enemyTeam then return true end
-    return false
-end
+
+local ScreenGui = Instance.new("ScreenGui", game.CoreGui)
+
+local Frame = Instance.new("Frame", ScreenGui)
+
+Frame.Size = UDim2.new(0, 300, 0, 180)
+
+Frame.Position = UDim2.new(0.5, -150, 0.5, -90)
+
+Frame.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+
+Frame.BorderSizePixel = 0
+
+Instance.new("UICorner", Frame).CornerRadius = UDim.new(0, 10)
+
+
+
+local Title = Instance.new("TextLabel", Frame)
+
+Title.Text = "CHEOZ MENU"
+
+Title.Size = UDim2.new(1, 0, 0, 40)
+
+Title.TextColor3 = Color3.new(1, 1, 1)
+
+Title.BackgroundTransparency = 1
+
+Title.Font = Enum.Font.GothamBold
+
+
+
+local TextBox = Instance.new("TextBox", Frame)
+
+TextBox.Size = UDim2.new(0, 240, 0, 35)
+
+TextBox.Position = UDim2.new(0.5, -120, 0.4, 0)
+
+TextBox.PlaceholderText = "Cole a Key aqui..."
+
+TextBox.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+
+TextBox.TextColor3 = Color3.new(1, 1, 1)
+
+
+
+local BtnEntrar = Instance.new("TextButton", Frame)
+
+BtnEntrar.Size = UDim2.new(0, 110, 0, 35)
+
+BtnEntrar.Position = UDim2.new(0.2, 0, 0.75, 0)
+
+BtnEntrar.Text = "Entrar"
+
+BtnEntrar.BackgroundColor3 = Color3.fromRGB(0, 150, 0)
+
+BtnEntrar.TextColor3 = Color3.new(1, 1, 1)
+
+Instance.new("UICorner", BtnEntrar)
+
+
+
+local BtnKey = Instance.new("TextButton", Frame)
+
+BtnKey.Size = UDim2.new(0, 110, 0, 35)
+
+BtnKey.Position = UDim2.new(0.55, 0, 0.75, 0)
+
+BtnKey.Text = "Pegar Key"
+
+BtnKey.BackgroundColor3 = Color3.fromRGB(100, 0, 200)
+
+BtnKey.TextColor3 = Color3.new(1, 1, 1)
+
+Instance.new("UICorner", BtnKey)
+
+
+
+BtnKey.MouseButton1Click:Connect(function()
+
+    setclipboard(LinkDaKey)
+
+    BtnKey.Text = "Copiado!"
+
+    task.wait(1)
+
+    BtnKey.Text = "Pegar Key"
+
+end)
+
+
+
+BtnEntrar.MouseButton1Click:Connect(function()
+
+    if Validar(TextBox.Text) then
+
+        BtnEntrar.Text = "Validando..."
+
+        local s, content = pcall(function() return game:HttpGet(ScriptOriginal) end)
+
+        if s then
+
+            ScreenGui:Destroy()
+
+            _G.CheozPermitido = "CHEOZ_AUTH_9921" 
+
+            task.defer(function()
+
+                local func = loadstring(content)
+
+                if func then
+
+                    func()
+
+                end
+
+            end)
